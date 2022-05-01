@@ -18,3 +18,4 @@ Most of OSINT tools are designed for the English speaking world (USA, Australia,
 * [Register](https://www.register.bg/) : DNS check of top-level domain .bg (Bulgarian & English).
 * [Vivacom](https://www.vivacom.bg/bg/residential/polezni-syveti/ukazatel/telefonni-nomera#tabs-anchor) : retrieves phone & address information(Bulgarian).
 * [Yellowpages](https://yellowpages.bg/bg/) : Yellowpages(English & Bulgarian).
+* [Bird](https://bird.bg/tr/) : political search engine but not only - Bulgarian PEPs & Communist State Security Agents (English & Bulgarian).
