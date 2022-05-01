@@ -14,7 +14,7 @@ Most of OSINT tools are designed for the English speaking world (USA, Australia,
 
 
 ## Non government
-* [Papagal](https://papagal.bg) : retrives information regarding people and companies(Bulgarian).
+* [Papagal](https://papagal.bg) : retrieves information regarding people and companies(Bulgarian).
 * [Register](https://www.register.bg/) : DNS check of top-level domain .bg (Bulgarian & English).
-* [Vivacom](https://www.vivacom.bg/bg/residential/polezni-syveti/ukazatel/telefonni-nomera#tabs-anchor) : retrives phone & address information(Bulgarian).
+* [Vivacom](https://www.vivacom.bg/bg/residential/polezni-syveti/ukazatel/telefonni-nomera#tabs-anchor) : retrieves phone & address information(Bulgarian).
 * [Yellowpages](https://yellowpages.bg/bg/) : Yellowpages(English & Bulgarian).
