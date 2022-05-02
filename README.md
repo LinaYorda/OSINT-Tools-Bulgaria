@@ -20,3 +20,4 @@ I have created a list of OSINT tools that can be useful when doing your investig
 * [Vivacom](https://www.vivacom.bg/bg/residential/polezni-syveti/ukazatel/telefonni-nomera#tabs-anchor) : retrieves phone & address information(Bulgarian).
 * [Yellowpages](https://yellowpages.bg/bg/) : Yellowpages(English & Bulgarian).
 * [Bird](https://bird.bg/tr/) : political search engine but not only - Bulgarian PEPs & Communist State Security Agents (English & Bulgarian).
+* [Sladur](http://www.sladur.com) : highly popular dating site in the past; browse personal information & photos (English & Bulgarian).
