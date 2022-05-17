@@ -23,3 +23,5 @@ I have created a list of OSINT tools that can be useful when doing your investig
 * [Sladur](http://www.sladur.com) : highly popular dating site in the past; browse personal information & photos (English & Bulgarian).
 * [Elmaz](https://www.elmaz.com/zapoznanstva/) : popular dating site; browse personal information & photos (English & Bulgarian).
 * [VsichkiFirmi](https://vsichkifirmi.com/) : retrieves information regarding phone number's carrier (Bulgarian).
+* [Yox](https://yox.bg) : job portal; search by name & company (Bulgarian).
+* [Ukazatelite](https://www.ukazatelite.com) : the commercial register with advanced featues: search by keywords, address, phone, email & site (Bulgarian).
