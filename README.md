@@ -16,8 +16,9 @@
 
 ## Non government portals
 * [SearchBG](http://search.bg) : Bulgarian search engine, powered by Google (Bulgarian).
+* [BulMaps](https://www.bulmaps.bg/) : Bulgarian map service (Bulgarian & English).
 * [BGwhois](http://bgwhois.com) : site info; who is; trace routes; DNSBL checker; what's my ip (Bulgarian).
-* [PortalBG](http://portal.bg/index.php) : Bulgarian web-directory and search engine.
+* [PortalBG](http://portal.bg/index.php) : Bulgarian web-directory and search engine (Bulgarian).
 * [Papagal](https://papagal.bg) : retrieves information regarding people and companies(Bulgarian).
 * [Register](https://www.register.bg/) : DNS check of top-level domain .bg (Bulgarian & English).
 * [Vivacom](https://www.vivacom.bg/bg/residential/polezni-syveti/ukazatel/telefonni-nomera#tabs-anchor) : retrieves phone & address information(Bulgarian).
