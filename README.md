@@ -30,3 +30,4 @@
 * [VsichkiFirmi](https://vsichkifirmi.com/) : retrieves information regarding phone number's carrier (Bulgarian).
 * [Yox](https://yox.bg) : job portal; search by name & company (Bulgarian).
 * [Ukazatelite](https://www.ukazatelite.com) : the commercial register with advanced featues: search by keywords, address, phone, email & site (Bulgarian).
+* [Strazha](https://www.strazha.bg) : Parliament search engine. Search for political statements in the parliament (Bulgarian).
